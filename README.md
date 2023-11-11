@@ -10,7 +10,7 @@
 - 💞️ I’m looking to collaborate on:<br>
   AI, ML, DS Projects<br>
 <br>
-- 
+
 <!--- 📫 How to reach me ...>
 
 <!---
