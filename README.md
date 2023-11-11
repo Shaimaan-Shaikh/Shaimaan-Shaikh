@@ -1,5 +1,5 @@
 # ABOUT ME:
-- 👋 Hi, I’m a self taught Developer. Intrested in learning New Technology.<br>
+- 👋 Hi, I’m a self taught Developer. Interested in learning New Technology.<br>
 <br>
 - 👀 I’m interested in:<br>
   Artificial Intelligence, Machine Learning, Data Science.<br>
